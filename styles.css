@@ -1,0 +1,173 @@
+body {
+  font-family: 'Inconsolata', 'Cutive Mono', monospace;
+  font-size: 15px;
+}
+
+.figure-text {
+  font-size: 12px;
+  font-family: 'IM Fell Great Primer', cursive;
+}
+
+.sakura {
+  background-image: url("/images/sakura.jpg");
+  background-size: cover;
+  height: 300px;
+  background-attachment: fixed;
+  background-position: left;
+
+}
+
+.name {
+  position: fixed;
+  width: 100%;
+  display: block;
+  text-align: center;
+  background-color: white;
+  margin: -10px;
+  border: 5px solid white;
+  z-index: 1000;
+}
+
+.hello-position {
+  text-align: center;
+  background-color: transparent;
+  width: 100%;
+}
+
+.path {
+  width: 100%:
+  background-color: transparent;
+  stroke-dasharray: 5000;
+  stroke-dashoffset: 5000;
+  animation: dash 20s linear forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.menu {
+  float: left;
+  position: fixed;
+  width: 75px;
+  height: 1000px;
+  top: 0;
+  margin-left: -2em;
+  z-index: 9900;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.menu-link {
+  width: 90px;
+  transform: rotate(270deg);
+  display: inline-block;
+  position: relative;
+  padding-top: 0.5em;
+  margin-top: 60px;
+  margin-right: 1em;
+  margin-bottom: 30px;
+  margin-left: 0;
+  font-size: 15px;
+  text-decoration: none;
+  font-family: "Orator STD", sans-serif;
+  color: black;
+  z-index: 1001;
+}
+
+.menu-link:hover {
+  color: #EAE1C5;
+}
+
+.menu-link .text {
+  border-bottom: 2px solid transparent;
+}
+.menu-link:focus .text {
+  border-bottom-color: black;
+}
+
+.button-endeavours {
+  margin-right: 50px;
+  position: relative; bottom: -50px;
+}
+
+
+.parallax1 {
+    /* The image used */
+    background-image: url("/images/EverythingisCovered.jpg");
+    opacity: 0.5;
+    /* Set a specific height */
+    height: 100px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    /* The image used */
+    background-image: url("/images/Bloom.jpg");
+    opacity: 0.5;
+
+    /* Set a specific height */
+    height: 100px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3 {
+    /* The image used */
+    background-image: url("/images/footer.jpg");
+    opacity: 0.6;
+
+    /* Set a specific height */
+    height: 100px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+.hello {
+  text-align: right;
+  background-color: #F3EDEF;
+  margin: 0px 0px 0px 45px;
+  padding: 20px;
+}
+
+.projects {
+  background-color: #EAE1C5;
+  margin-left: 45px;
+  padding: 20px;
+}
+
+.musings {
+  background-color: #FBFBFB;
+  margin-left: 45px;
+  padding: 20px;
+}
+
+.contact {
+  background-color: #E6C7C2;
+  margin-left: 45px;
+  padding: 0 0 20px 40px;
+}
+
+.letstalk {
+  width: 100%;
+  max-width: 300px;
+  margin-left: -20px;
+  margin-top: 20px;
+}
