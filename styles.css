@@ -3,6 +3,12 @@ body {
   font-size: 15px;
 }
 
+.name {
+  position: fixed;
+  height: auto;
+  padding: 0;
+  z-index: 1500;
+}
 
 .figure-text {
   font-size: 12px;
