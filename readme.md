@@ -27,6 +27,7 @@ for the website.
 
 Next I used figma to create a mock up of the website, both for mobile and desktop. This process was the most fun given that there were no constraints. However, this did prove challenging later on, as I had created the designs without much awareness of the html structure and css styling that would be required.
 
+[Pinterest](https://au.pinterest.com/sharoncodes/design-inspiration/)
 [Figma](https://www.figma.com/file/S2jLYIo9G2i8ulQpSAFFXJeF/Cloudilicious)
 
 ## Building
