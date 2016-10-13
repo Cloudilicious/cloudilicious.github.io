@@ -57,6 +57,7 @@ By examining the mess I was making, I was able to take a step back and simplify 
 ## Improvements
 - Responsiveness and media queries
 - Enhanced scrolling capability
+- Layout and positioning for future-proofing - such as when adding more projects or blog posts to the Projects and Thoughts sections respectively
 
 ## Live Website
 https://cloudilicious.github.io
