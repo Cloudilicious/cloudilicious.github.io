@@ -1,7 +1,7 @@
 ## Aim
 
-My aim create a clean, concise portfolio page that shows my personality and my aesthetics. I wanted to demonstrate my appreciation for
-interesting design concepts 
+My aim was to create a clean, concise portfolio page that shows my personality and my aesthetics. 
+I wanted to demonstrate my appreciation for interesting design concepts, as well as challenge myself to create the page using CSS
 
 ### Hello
 I thought of this portfolio site more as an extension of myself, so wanted to make my introduction a little more casual. I did this by
@@ -28,4 +28,9 @@ Next I used figma to create a mock up of the website, both for mobile and deskto
 [Figma](https://www.figma.com/file/S2jLYIo9G2i8ulQpSAFFXJeF/Cloudilicious)
 
 ## Lessons Learnt
-Initially, 
+Initially, the excitement of the design process caused me to attempt to code a website that was outside my capability and scope, given that I was not looking at using any frameworks.
+
+By examining the mess I was making, I was able to take a step back and simplify the overall design, both from a HTML structure and a style perspective, while retaining the overall look and feel I was aiming for. By reducing the struggle with the layout and positioning, I was also then able to research and incorporate other small features (such as parallax scrolling and animations) more easily.
+
+## Live Website
+https://cloudilicious.github.io
