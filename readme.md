@@ -15,7 +15,7 @@ my interests in calligraphy/typography and science as well as a little bit of hu
 
 
 ### Contact
-This is a call to action so again, I wanted to make this section more personal by adding some handwritten text.
+I wanted to make this section more personal by adding some handwritten text, so the viewer feels invited to contact me
 
 ## Design process
 I researched ideas mainly using Pinterest and searching for minimalist websites through Google for inspiration. 
