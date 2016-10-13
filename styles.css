@@ -3,18 +3,25 @@ body {
   font-size: 15px;
 }
 
+
 .figure-text {
   font-size: 12px;
   font-family: 'IM Fell Great Primer', cursive;
 }
 
 .sakura {
-  background-image: url("/images/sakura.jpg");
-  background-size: cover;
-  height: 300px;
-  background-attachment: fixed;
-  background-position: left;
+    /* The image used */
+    background-image: url("/images/sakura.jpg");
+    opacity: 0.5;
+    /* Set a specific height */
+    height: 250px;
+    z-index: 2000;
 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .name {
@@ -32,6 +39,8 @@ body {
   text-align: center;
   background-color: transparent;
   width: 100%;
+  top: 300px;
+  margin: 0;
 }
 
 .path {
@@ -95,10 +104,10 @@ body {
 
 .parallax1 {
     /* The image used */
-    background-image: url("/images/EverythingisCovered.jpg");
+    background-image: url("/images/sakura.jpg");
     opacity: 0.5;
     /* Set a specific height */
-    height: 100px;
+    height: 250px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -113,7 +122,7 @@ body {
     opacity: 0.5;
 
     /* Set a specific height */
-    height: 100px;
+    height: 150px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -124,11 +133,11 @@ body {
 
 .parallax3 {
     /* The image used */
-    background-image: url("/images/footer.jpg");
+    background-image: url("/images/lookingforward.jpg");
     opacity: 0.6;
 
     /* Set a specific height */
-    height: 100px;
+    height: 150px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
