@@ -57,6 +57,16 @@ body {
   }
 }
 
+.link {
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  color: #EAE1C5;
+}
+
 .menu {
   float: left;
   position: fixed;
@@ -133,7 +143,7 @@ body {
 
 .parallax3 {
     /* The image used */
-    background-image: url("/images/lookingforward.jpg");
+    background-image: url("/images/everythingiscovered.jpg");
     opacity: 0.6;
 
     /* Set a specific height */
@@ -146,7 +156,20 @@ body {
     background-size: cover;
 }
 
+.parallax4 {
+    /* The image used */
+    background-image: url("/images/footer.jpg");
+    opacity: 0.6;
 
+    /* Set a specific height */
+    height: 150px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 .hello {
@@ -162,10 +185,17 @@ body {
   padding: 20px;
 }
 
-.musings {
+.thoughts {
+  text-align: center;
   background-color: #FBFBFB;
   margin-left: 45px;
-  padding: 20px;
+  padding: 30px;
+}
+
+.thoughts img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
 }
 
 .contact {
@@ -180,3 +210,13 @@ body {
   margin-left: -20px;
   margin-top: 20px;
 }
+/*
+@media screen and (min-width: 750px) {
+  .hello article {
+    float: left;
+    margin-right: 250px;
+  }
+  .hello img {
+    float:right;
+  }
+}*/
