@@ -1,7 +1,7 @@
 ## Aim
 
 My aim was to create a clean, concise portfolio page that shows my personality and my aesthetics. 
-I wanted to demonstrate my appreciation for interesting design concepts, as well as challenge myself to create the page using CSS
+I wanted to demonstrate my appreciation for interesting design concepts, as well as challenge myself to create the page using CSS only
 
 ### Hello
 I thought of this portfolio site more as an extension of myself, so wanted to make my introduction a little more casual. I did this by
