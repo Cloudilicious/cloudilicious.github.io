@@ -1,6 +1,8 @@
+Read Me
+
 ## Aim
 
-My aim was to create a clean, concise portfolio page that shows my personality and my aesthetics. 
+My aim was to create a clean, concise portfolio page that shows my personality and my aesthetics.
 I wanted to demonstrate my appreciation for interesting design concepts, as well as challenge myself to create the page using CSS only
 
 ### Hello
@@ -9,19 +11,19 @@ using the title "Hello" instead of "About" and also created a handwritten animat
 my interests in calligraphy/typography and science as well as a little bit of humour.
 
 ### Projects
-I wanted this section to be clear and concise so there isn't any special formatting here. 
+I wanted this section to be clear and concise so there isn't any special formatting here.
 An appropriately selected image helps draw the viewer to the content.
 
 ### Thoughts
-Again, this is an area that I wanted to keep quite simple as it could potentially end up with lots of links and text. 
+Again, this is an area that I wanted to keep quite simple as it could potentially end up with lots of links and text.
 I added a round image just to change things up a bit.
 
 ### Contact
 I wanted to make this section more personal by adding some handwritten text, so the viewer feels invited to contact me
 
 ## Design process
-I researched ideas mainly using Pinterest and searching for minimalist websites through Google for inspiration. 
-I had a fairly clear idea of the overall look of the site: clean and light with strong typographical elements and colour blocks. 
+I researched ideas mainly using Pinterest and searching for minimalist websites through Google for inspiration.
+I had a fairly clear idea of the overall look of the site: clean and light with strong typographical elements and colour blocks.
 I wanted to use my own images and was lucky in that I already had useable photos. The main sakura image then informed the colour palette
 for the website.
 
